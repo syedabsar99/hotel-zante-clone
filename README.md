@@ -35,7 +35,9 @@ A responsive front-page clone of the Hotel Zante website built using HTML, CSS, 
 
 ## 📸 Preview
 
-_Add a screenshot of the project here._
+## 📸 Preview
+
+![Hotel Zante Clone Preview](assets/images/hotel-zante-preview.png)
 
 ## 📱 Responsive Design
 
